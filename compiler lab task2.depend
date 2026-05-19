@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1772955344 source:c:\compiler lab task2\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cctype>
+	<vector>
+	<algorithm>
+
